@@ -10,7 +10,7 @@
     "main.25dc7483.js.map": "https://anthonybnajem.github.io/demo/static/js/main.25dc7483.js.map"
   },
   "entrypoints": [
-    "static/css/main.15e8179b.css",
-    "static/js/main.25dc7483.js"
+    "https://anthonybnajem.github.io/demo/static/css/main.15e8179b.css",
+    "https://anthonybnajem.github.io/demo/static/js/main.25dc7483.js"
   ]
 }
