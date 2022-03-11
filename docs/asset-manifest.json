@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "demo/static/css/main.c6fda0d8.css",
-    "main.js": "demo/static/js/main.5241c02d.js",
+    "main.css": "static/css/main.c6fda0d8.css",
+    "main.js": "static/js/main.5241c02d.js",
     "static/media/portrait_white.png": "static/media/portrait_white.f17d0a11af6fd4e5cfda.png",
     "static/media/portrait_black.png": "static/media/portrait_black.f051c7a2a67b64a94531.png",
     "static/media/landscape_black.png": "static/media/landscape_black.119d326c995c472dbad8.png",
