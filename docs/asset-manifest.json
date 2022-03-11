@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "https://anthonybnajem.github.io/demo/static/css/main.15e8179b.css",
-    "main.js": "https://anthonybnajem.github.io/demo/static/js/main.25dc7483.js",
-    "static/media/video.mp4": "https://anthonybnajem.github.io/demo/static/media/video.36fa7a295091084081b9.mp4",
-    "static/media/video-3.mp4": "https://anthonybnajem.github.io/demo/static/media/video-3.0462c923b035753e3307.mp4",
-    "static/media/video-2.mp4": "https://anthonybnajem.github.io/demo/static/media/video-2.e683f4367b1dcf13c2b8.mp4",
+    "main.css": "/static/css/main.c6fda0d8.css",
+    "main.js": "/static/js/main.5241c02d.js",
+    "static/media/portrait_white.png": "/static/media/portrait_white.f17d0a11af6fd4e5cfda.png",
+    "static/media/portrait_black.png": "/static/media/portrait_black.f051c7a2a67b64a94531.png",
+    "static/media/landscape_black.png": "/static/media/landscape_black.119d326c995c472dbad8.png",
+    "static/media/landscape_white.png": "/static/media/landscape_white.62063fa5f665be150dc0.png",
+    "static/media/portrait_gold.png": "/static/media/portrait_gold.68b17216dc5ec1cd29e6.png",
+    "static/media/landscape_gold.png": "/static/media/landscape_gold.78efbdc6dabd91a0b693.png",
+    "static/media/landscape_pink.png": "/static/media/landscape_pink.48170a4fc18eb03df930.png",
+    "static/media/portrait_pink.png": "/static/media/portrait_pink.1585db130f00c8eb7857.png",
+    "static/media/landscape_red.png": "/static/media/landscape_red.af7d18d2c9acdafa1bb5.png",
+    "static/media/portrait_red.png": "/static/media/portrait_red.7ea49bd24a1b23d715be.png",
     "index.html": "/index.html",
-    "main.15e8179b.css.map": "https://anthonybnajem.github.io/demo/static/css/main.15e8179b.css.map",
-    "main.25dc7483.js.map": "https://anthonybnajem.github.io/demo/static/js/main.25dc7483.js.map"
+    "main.c6fda0d8.css.map": "/static/css/main.c6fda0d8.css.map",
+    "main.5241c02d.js.map": "/static/js/main.5241c02d.js.map"
   },
   "entrypoints": [
-    "https://anthonybnajem.github.io/demo/static/css/main.15e8179b.css",
-    "https://anthonybnajem.github.io/demo/static/js/main.25dc7483.js"
+    "static/css/main.c6fda0d8.css",
+    "static/js/main.5241c02d.js"
   ]
 }
